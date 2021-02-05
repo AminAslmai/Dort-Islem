@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\aslami\aslami\bin\Debug\aslami.dll
+c:\users\pc\documents\visual studio 2015\Projects\aslami\aslami\bin\Debug\aslami.pdb
+c:\users\pc\documents\visual studio 2015\Projects\aslami\aslami\obj\Debug\aslami.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\aslami\aslami\obj\Debug\aslami.dll
+c:\users\pc\documents\visual studio 2015\Projects\aslami\aslami\obj\Debug\aslami.pdb
